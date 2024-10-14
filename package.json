@@ -1,10 +1,10 @@
 {
   "name": "wiki",
-  "version": "2.0.0",
+  "version": "2.5.305",
   "releaseDate": "2019-01-01T01:01:01.000Z",
   "description": "A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown",
   "main": "wiki.js",
-  "dev": true,
+  "dev": false,
   "scripts": {
     "start": "node server",
     "dev": "NODE_OPTIONS=--openssl-legacy-provider node dev",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Requarks/wiki.git"
+    "url": "git+https://github.com/mendakon/wiki.git"
   },
   "keywords": [
     "wiki",

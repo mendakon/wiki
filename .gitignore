@@ -47,3 +47,7 @@ test-results/
 
 # Localization Resources
 /server/locales/**/*.yml
+
+
+docker-compose.yaml
+Dockerfile
